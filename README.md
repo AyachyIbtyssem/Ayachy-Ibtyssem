@@ -34,12 +34,7 @@
 
 ---
 
-## GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibtissem-ayachi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissem-ayachi&layout=compact&theme=radical)
-
----
 
 ## 📫Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ibtissem-ayachi-63b257240/))  
