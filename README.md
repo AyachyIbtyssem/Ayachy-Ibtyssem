@@ -18,10 +18,10 @@
 <p align="left">
 <!-- AI & CV -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" width="60" height="60"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" width="60" height="60"/> </a>
-<a href="https://github.com/AlexeyAB/darknet" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YOLO-FF6600?style=for-the-badge&logoColor=white" alt="yolo" width="60" height="60"/> </a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" width="100" height="100"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" width="100" height="100"/> </a>
+<a href="https://github.com/AlexeyAB/darknet" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YOLO-FF6600?style=for-the-badge&logoColor=white" alt="yolo" width="80" height="80"/> </a>
 
 <!-- Full-Stack & Mobile -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
