@@ -7,7 +7,6 @@
 - 🤝 I’m seeking guidance and opportunities in **Deep Learning, Computer Vision, and Full-Stack Development**  
 - 👨‍💻 All of my projects are available in my **private repos**, but you can see my showcase below
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 💬 Ask me about **Python, PyTorch, TensorFlow, OpenCV, Node.js, Angular, React, Flutter, Android**  
 - 📫 How to reach me: **[Email](mailto:ibtissemayachi2021@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibtissem-ayachi-63b257240/)**  
