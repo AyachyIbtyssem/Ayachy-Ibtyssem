@@ -9,7 +9,7 @@
 
 
 - 💬 Ask me about **Python, PyTorch, TensorFlow, OpenCV, Node.js, Angular, React, Flutter, Android**  
-- 📫 How to reach me: **[Email](mailto:ibtissemayachi2021@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibtissem-ayachi-63b257240/)**  
+- 📫 How to reach me: **[Email](mailto:ibtissemayachi2021@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibtissem-ayachi-63b257240/) | [Portfolio](https://ibtyssem-portfolio.vercel.app/)**  
 
 ---
 
